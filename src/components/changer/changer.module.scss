@@ -1,0 +1,16 @@
+.btn1{
+  border-radius: 10px;
+  border: none;
+  margin-top: 0.7%;
+  margin-left: 1%;
+  font-size: 14px;
+  background-color: white;
+  text-align: center;
+  height: 27px;
+  width: 70px;
+  cursor: pointer;
+  transition: all .2s;
+  &:hover{
+    transform: scale(1.1);
+  }
+}
